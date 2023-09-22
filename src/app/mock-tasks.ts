@@ -1,4 +1,6 @@
-export const TASKS = [
+import { Task } from './Task';
+
+export const TASKS: Task[] = [
   {
     id: 1,
     text: "Mother-in-law's Birthday Lunch",
