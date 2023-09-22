@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Mother-in-law's Birthday Lunch",
+      "day": "September 23rd at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Play Dice Throne Adventures Campaign",
+      "day": "September 25th at 3:00pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Grocerie Shopping",
+      "day": "September 25th at 6:30pm",
+      "reminder": false
+    }
+  ]
+}
